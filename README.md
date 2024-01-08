@@ -30,9 +30,6 @@ If you encounter a bug, have a suggestion, or want to discuss something related 
 
 Please follow the existing coding style of the project. Be consistent with formatting and naming conventions.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
