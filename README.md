@@ -33,7 +33,7 @@ Please follow the existing coding style of the project. Be consistent with forma
 
 ## Acknowledgments
 
-- Special thanks to [contributors](CONTRIBUTORS.md) who have helped improve this project.
+- Special thanks to those who have helped improve this project.
 
 Thank you for your interest in contributing to the Quote Generator project! If you have any questions, feel free to reach out to us.
 
