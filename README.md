@@ -37,4 +37,4 @@ Please follow the existing coding style of the project. Be consistent with forma
 
 Thank you for your interest in contributing to the Quote Generator project! If you have any questions, feel free to reach out to us.
 
-Happy coding! 🚀
+
